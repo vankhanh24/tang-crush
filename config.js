@@ -6,7 +6,7 @@ const CONFIG = {
     btnYes: 'Không muốn🤪🤪🤪',
     btnNo: 'Muốn e hết giận a🥰🥰🥰',
     question:'Lêu lêu không hết giận đâu @@@',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi cho em <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Hic mà thui, không giận a nữa',
     messDesc: 'Nhưng có điều kiện á nha. Còn muốn biết điều kiện gì thì hỏi e nhá kkk',
